@@ -1,2 +1,2 @@
 # docker-compose-laravel
-Docker Compose Develoment Environment for Laravel
+Docker Compose Development Environment for Laravel
